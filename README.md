@@ -5,7 +5,7 @@
 
 ---
 
-### 👋 Hey there! I'm [Your Name] — a passionate Frontend Developer
+### 👋 Hey there! I'm okposio David — a passionate Frontend Developer
 
 I craft clean and interactive interfaces with modern web technologies. I love smooth animations, responsive layouts, and creating delightful web experiences.
 
